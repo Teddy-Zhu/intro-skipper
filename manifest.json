@@ -9,7 +9,7 @@
         "imageUrl": "https://raw.githubusercontent.com/ConfusedPolarBear/intro-skipper/master/images/logo.png",
         "versions": [
             {
-                "version": "id-fix",
+                "version": "0.1.8.0",
                 "changelog": "- See the full changelog at [GitHub](https://github.com/ConfusedPolarBear/intro-skipper/blob/master/CHANGELOG.md)\n",
                 "targetAbi": "10.8.4.0",
                 "sourceUrl": "https://github.com/Teddy-Zhu/intro-skipper/files/14109945/intro-skipper-id-fix.zip",
